@@ -81,8 +81,10 @@ endmodule
 
 Output:
 ![output](/212720645-da73b609-aff2-43a4-b787-abee014a3dd6.png)
+
 RTL:
 ![output](/BLG1.png)
+
 Timing diagram:
 ![output](/BLG2.png)
 
