@@ -79,13 +79,13 @@ xnor(y8,a,b);
 endmodule
 ```
 
-Output:
+## Output:
 ![output](/212720645-da73b609-aff2-43a4-b787-abee014a3dd6.png)
 
-RTL:
+## RTL:
 ![output](/BLG1.png)
 
-Timing diagram:
+## Timing diagram:
 ![output](/BLG2.png)
 
 Result:
